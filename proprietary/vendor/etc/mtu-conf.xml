@@ -156,6 +156,9 @@ mtuTableEntry attributes:
     <mtuTableEntry numeric="21910" mtu="1330" profile="2"/>
     <mtuTableEntry numeric="21910" mtu="1330" rat="4"/>
 
+<!-- Fastweb IT -->
+    <mtuTableEntry numeric="22208" mtu="1280" rat="4"/>
+
 <!-- Spusu IT -->
     <mtuTableEntry numeric="22256" mtu="1280" rat="4"/>
 
@@ -225,6 +228,9 @@ mtuTableEntry attributes:
     <mtuTableEntry numeric="24007" mtu="1300" profile="2"/>
     <mtuTableEntry numeric="24007" mtu="1300" rat="4"/>
 
+<!-- Telavox Sweden -->
+    <mtuTableEntry numeric="24050" mtu="1280" rat="4"/>
+
 <!-- Tele2 RU -->
     <mtuTableEntry numeric="25020" mtu="1300" profile="2"/>
 
@@ -281,6 +287,9 @@ mtuTableEntry attributes:
 <!-- Lifecell -->
     <mtuTableEntry numeric="25506" mtu="1280" profile="2"/>
     <mtuTableEntry numeric="25506" mtu="1280" rat="4"/>
+
+<!-- Vodafone Ukraine -->
+    <mtuTableEntry numeric="25501" mtu="1280" rat="4"/>
 
 <!-- PLAY -->
     <mtuTableEntry numeric="26006" mtu="1280" rat="4"/>
@@ -352,6 +361,9 @@ mtuTableEntry attributes:
 
 <!-- Telemach (Slovenia) -->
     <mtuTableEntry numeric="29370" mtu="1300" profile="2"/>
+
+<!-- T-2 Slovenia -->
+    <mtuTableEntry numeric="29364" mtu="1280" rat="4"/>
 
 <!-- Telus -->
     <mtuTableEntry numeric="302220" mtu="1440" profile="2"/>
