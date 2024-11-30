@@ -498,7 +498,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/sm7125-common/proprietary/vendor/lib/libsegmentationeffect.uniplugin@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsegmentationeffect.uniplugin@1.0.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsemnativecarrierfeature.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib/libsensorlistener.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorlistener.so \
-    vendor/samsung/sm7125-common/proprietary/vendor/lib/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorndkbridge.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib/libsensorslog.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorslog.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib/libsmartfocus_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsmartfocus_interface.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib/libsmartfocusengine.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsmartfocusengine.so \
@@ -909,7 +908,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsegmentationeffect.uniplugin@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsegmentationeffect.uniplugin@1.0.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsemnativecarrierfeature.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsensorlistener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorlistener.so \
-    vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorndkbridge.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsensorslog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorslog.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsmartfocus_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsmartfocus_interface.so \
     vendor/samsung/sm7125-common/proprietary/vendor/lib64/libsmartfocusengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsmartfocusengine.so \
