@@ -321,6 +321,8 @@ PRODUCT_PACKAGES += \
     libops \
     libpdmapper \
     libpdnotifier \
+    libperfconfig \
+    libperfgluelayer \
     libperipheral_client \
     libprotobuf-cpp-full-3.9.1 \
     libprotobuf-cpp-lite-3.9.1 \
@@ -348,6 +350,7 @@ PRODUCT_PACKAGES += \
     libqsap_sdk \
     libqseed3 \
     libqsocket \
+    libqti-util \
     libremosaic_daemon \
     librpmb \
     libscveCommon \
