@@ -9552,6 +9552,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libsensorlistener.so",
             ],
             shared_libs: [
+                "libshim_sensorndkbridge",
                 "libcutils",
                 "libutils",
                 "libsensorndkbridge",
@@ -10631,6 +10632,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib/unihal_main@2.15.so",
             ],
             shared_libs: [
+                "libshim_sensorndkbridge",
                 "libui_shim",
                 "libutils",
                 "libcutils",
@@ -10662,6 +10664,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/unihal_main@2.15.so",
             ],
             shared_libs: [
+                "libshim_sensorndkbridge",
                 "libui_shim",
                 "libutils",
                 "libcutils",
