@@ -486,6 +486,7 @@ PRODUCT_PACKAGES += \
     libreverbwrapper \
     libsamsungSoundbooster_plus \
     libshoebox \
+    libswdap \
     libswspatializer \
     libvisualizer \
     spatializer-aidl-V1-cpp \
